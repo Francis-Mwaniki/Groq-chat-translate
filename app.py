@@ -116,4 +116,4 @@ elif app_mode == "Language Translation":
         else:
             st.warning("Please enter some text to translate.")
 st.sidebar.markdown("---")
-st.sidebar.info("This app uses LLMA Mistral AI its Super First check it out")
+st.sidebar.info("This app uses LLMA Mistral AI its Super Fast check it out")
